@@ -1,0 +1,193 @@
+{"id": "0", "model": "flant5_xxl", "statement": "Fox 2000 Film Corporation is an American television network founded in 1996 .", "final_label": "Unfactual"}
+{"id": "1", "model": "flant5_xxl", "statement": "The Cretaceous existed 145 million years ago .", "final_label": "Factual"}
+{"id": "2", "model": "flant5_xxl", "statement": "Nicholas Brody grew up in Farmington , New Mexico .", "final_label": "Factual"}
+{"id": "3", "model": "flant5_xxl", "statement": "CBS is the nation 's fourth-largest broadcasting company and has many other major interest holdings .", "final_label": "Unfactual"}
+{"id": "4", "model": "flant5_xxl", "statement": "Edgar Wright Wright was born in 1974 in Liverpool , England .", "final_label": "Unfactual"}
+{"id": "7", "model": "flant5_xxl", "statement": "Aristotle spent philosopher and musician in prison .", "final_label": "Unfactual"}
+{"id": "9", "model": "flant5_xxl", "statement": "Marcus Bentley was an Australian former footballer .", "final_label": "Unfactual"}
+{"id": "10", "model": "flant5_xxl", "statement": "Jennifer Lopez can be heard on nine songs from her seventh studio album , \" Voyager \" , including the first single , \" Ain 't No Way ( How Does It Feel) ?\" .", "final_label": "Unfactual"}
+{"id": "11", "model": "flant5_xxl", "statement": "Sancho Panza was a Spanish woman who had been captured by a group of Christians during the Holy Inquisition .", "final_label": "Unfactual"}
+{"id": "12", "model": "flant5_xxl", "statement": "Brazzers is a US fantasy-comedy cable TV series which aired on TNT from September 1996 until April 1997 .", "final_label": "Unfactual"}
+{"id": "13", "model": "flant5_xxl", "statement": "Tim Roth Roth was born on February 24 , 1952 .", "final_label": "Unfactual"}
+{"id": "14", "model": "flant5_xxl", "statement": "Ernest Medina became one of the greatest coaches in the history of Major League Baseball .", "final_label": "Unfactual"}
+{"id": "15", "model": "flant5_xxl", "statement": "Jenna Jameson attended the University of Illinois at Urbana-Champaign .", "final_label": "Not Sure"}
+{"id": "19", "model": "flant5_xxl", "statement": "Bermuda Triangle - The Bermuda Triangle or Bermudan Triangle is a mythical zone of possible supernatural occurrences centered around Bermuda , where ships and planes supposedly go missing .", "final_label": "Factual"}
+{"id": "20", "model": "flant5_xxl", "statement": "Topman has a total of 1,311 stores worldwide .", "final_label": "Factual"}
+{"id": "23", "model": "flant5_xxl", "statement": "In 1971 Prime Minister Daniel Nesselrode declared the general election invalid and gave it a technical pass .", "final_label": "Not Sure"}
+{"id": "24", "model": "flant5_xxl", "statement": "Trollhunters was made for television in Denmark .", "final_label": "Unfactual"}
+{"id": "25", "model": "flant5_xxl", "statement": "The Armenian Yerevan , Erebuni Cathedral is the seat of the Metropolitan of Yerevan and serves as the headquarters of the clergy .", "final_label": "Not Sure"}
+{"id": "28", "model": "flant5_xxl", "statement": "Advertising is a commercial effort to influence consumer opinion through manipulation of the production process or content .", "final_label": "Unfactual"}
+{"id": "30", "model": "flant5_xxl", "statement": "Caroline Kennedy attended Trinity School in New York and served as a Special Envoy of President Kennedy .", "final_label": "Not Sure"}
+{"id": "31", "model": "flant5_xxl", "statement": "The Mod group The Stranglers is an English rock band formed in 1969 .", "final_label": "Unfactual"}
+{"id": "32", "model": "flant5_xxl", "statement": "Smriti Mandhana was a cricket player who played first-class cricket for India in the 1860s and toured the Caribbean in the early 1870s with the touring English cricket team .", "final_label": "Unfactual"}
+{"id": "33", "model": "flant5_xxl", "statement": "Emma Watson performs as Hermione Granger in the 2012 film version of \"Harry Potter and the Deathly Hallows: Part 1 \" .", "final_label": "Factual"}
+{"id": "34", "model": "flant5_xxl", "statement": "Congressional Space had increased to 106 seats , with 51 women .", "final_label": "Not Sure"}
+{"id": "36", "model": "flant5_xxl", "statement": "Colombiana is Colombia 's flag carrier and the country 's second-largest airline after Avianca .", "final_label": "Unfactual"}
+{"id": "37", "model": "flant5_xxl", "statement": "Rick Yune is a film director , screenwriter , producer and special effects designer .", "final_label": "Unfactual"}
+{"id": "38", "model": "flant5_xxl", "statement": "Boyhood is growing up to be a man .", "final_label": "Factual"}
+{"id": "39", "model": "flant5_xxl", "statement": "Roar ( Ashes to Ashes ) is a 1996 American biographical drama film directed by French-American film director J.P. Roene .", "final_label": "Unfactual"}
+{"id": "40", "model": "flant5_xxl", "statement": "The human ozone layer is comprised of ozone , nitrogen , and carbon dioxide , which keeps humans and other animals , from absorbing too much ultraviolet radiation from the sun .", "final_label": "Factual"}
+{"id": "41", "model": "flant5_xxl", "statement": "Alice Cooper has received six American Music Awards and was named the most commercially successful male singer of the 1970s .", "final_label": "Not Sure"}
+{"id": "44", "model": "flant5_xxl", "statement": "Speech recognition can be used to describe the characteristics of natural human speech and create a computational model of what the user intends to say .", "final_label": "Factual"}
+{"id": "46", "model": "flant5_xxl", "statement": "The filming was also a way to benefit wildlife , and the participants are to be awarded and receive monetary compensation .", "final_label": "Factual"}
+{"id": "47", "model": "flant5_xxl", "statement": "Sean Penn then pushed the car off the roadway and blocked the wheel of the plane with it .", "final_label": "Not Sure"}
+{"id": "48", "model": "flant5_xxl", "statement": "Water is toxic to bacteria .", "final_label": "Unfactual"}
+{"id": "49", "model": "flant5_xxl", "statement": "Darwin is among the most famous naturalists .", "final_label": "Factual"}
+{"id": "51", "model": "flant5_xxl", "statement": "DreamWorks Animation is an American animation studio based in California , known for producing the films Shrek and Kung Fu Panda .", "final_label": "Factual"}
+{"id": "52", "model": "flant5_xxl", "statement": "Folklore includes myths , stories , legends and superstitions related to certain places and cultures .", "final_label": "Factual"}
+{"id": "55", "model": "flant5_xxl", "statement": "Trollhunters is Swedish television series that is shown on SVT1 .", "final_label": "Unfactual"}
+{"id": "56", "model": "flant5_xxl", "statement": "Finding Dory was directed by Andrew Stanton and distributed by Walt Disney Studios Motion Pictures in both 3D and 2D .", "final_label": "Factual"}
+{"id": "57", "model": "flant5_xxl", "statement": "Kentucky is the nation 's eighth-most populous state and the twenty-first-most populous state overall , with an estimated population of over 5 million people .", "final_label": "Unfactual"}
+{"id": "58", "model": "flant5_xxl", "statement": "Kelly Preston is best known for playing Sandy Duncan on the sitcom \" Dallas\" .", "final_label": "Unfactual"}
+{"id": "59", "model": "flant5_xxl", "statement": "Excuse My Blasphemous Article is the third album by neo-pagan exponent William Butler Yeats .", "final_label": "Unfactual"}
+{"id": "60", "model": "flant5_xxl", "statement": "A Floppy Disc is a kind of optical disc media which allows you to store data on them .", "final_label": "Factual"}
+{"id": "61", "model": "flant5_xxl", "statement": "The horse is an important mode of transportation , both for people and for merchants .", "final_label": "Factual"}
+{"id": "62", "model": "flant5_xxl", "statement": "Forceps are used to grip objects such as jewelry , hairpins , keys , or even pasta and are used in a vast array of endeavors .", "final_label": "Factual"}
+{"id": "63", "model": "flant5_xxl", "statement": "The Closer is a 1990 British comedy film directed by Paddy Considine .", "final_label": "Unfactual"}
+{"id": "65", "model": "flant5_xxl", "statement": "The Concert introduces the rhythmic structure and melodic ideas , including full-scale vocal phrasings and parts for three members in an ensemble with all vocals .", "final_label": "Not Sure"}
+{"id": "66", "model": "flant5_xxl", "statement": "Avenged Sevenfold Avenged Sevenfold is an American rock band from Los Angeles , California .", "final_label": "Unfactual"}
+{"id": "0", "model": "llama30b", "statement": "Fox 2000 Pictures is owned by Walt Disney Studios .", "final_label": "Factual"}
+{"id": "1", "model": "llama30b", "statement": "The Cretaceous was a time of great biotic upheaval .", "final_label": "Factual"}
+{"id": "2", "model": "llama30b", "statement": "Nicholas Brody is a fictional character and one of the two protagonists of the Showtime series .", "final_label": "Factual"}
+{"id": "3", "model": "llama30b", "statement": "CBS is the first network to broadcast a regularly scheduled television news program in 1941 .", "final_label": "Factual"}
+{"id": "4", "model": "llama30b", "statement": "Edgar Wright helmed the two recent comedy crime thrillers Hot Fuzz and Shaun of the Dead .", "final_label": "Factual"}
+{"id": "7", "model": "llama30b", "statement": "Aristotle spent time at Plato's Academy before founding his own school .", "final_label": "Factual"}
+{"id": "9", "model": "llama30b", "statement": "Marcus Bentley appeared as a minor housemate during the third edition of Celebrity Big Brother in 2005 .", "final_label": "Unfactual"}
+{"id": "10", "model": "llama30b", "statement": "Jennifer Lopez the first woman to win the award for Outstanding Performance by a Female Artist in a Leading Role .", "final_label": "Not Sure"}
+{"id": "11", "model": "llama30b", "statement": "Sancho Panza has his idea of the ideal life.", "final_label": "Factual"}
+{"id": "12", "model": "llama30b", "statement": "Brazzers is a multi-language adult pornography network owned by Mindgeek .", "final_label": "Factual"}
+{"id": "13", "model": "llama30b", "statement": "Tim Roth appeared in 2016 in Youth .", "final_label": "Unfactual"}
+{"id": "14", "model": "llama30b", "statement": "Ernest Medina was accused of ordering the massacre at the My Lai Hamlet .", "final_label": "Unfactual"}
+{"id": "15", "model": "llama30b", "statement": "Jenna Jameson co-hosted Playboy TV 's Jenna's American Sex Star .", "final_label": "Factual"}
+{"id": "17", "model": "llama30b", "statement": "Christa McAuliffe was selected to be the first teacher in space .", "final_label": "Factual"}
+{"id": "19", "model": "llama30b", "statement": "Bermuda Triangle contains a variety of climate zones , with the country located in the humid subtropical climate zone .", "final_label": "Factual"}
+{"id": "20", "model": "llama30b", "statement": "Topman has mainstream menswear .", "final_label": "Factual"}
+{"id": "23", "model": "llama30b", "statement": "In 1971 , she released a disco album on the Loving Life label entitled The Genius of Gwen McRae .", "final_label": "Not Sure"}
+{"id": "24", "model": "llama30b", "statement": "Trollhunters was an American-Mexican fantasy computer-animated television series.", "final_label": "Unfactual"}
+{"id": "25", "model": "llama30b", "statement": "The Armenian Genocide (Armenian : \u0540\u0561\u0575\u0578\u0581 \u0551\u0565\u0572\u0561\u057d\u057a\u0561\u0576\u0578\u0582\u0569\u0575\u0578\u0582\u0576 Hayots tseghaspanutyun ; Turkish : Ermeni Soyk\u0131r\u0131m\u0131 and Ermeni K\u0131y\u0131m\u0131) was the Ottoman government\u2019s systematic extermination of 1.5 million Armenians, mostly citizens within the Ottoman Empire .", "final_label": "Factual"}
+{"id": "28", "model": "llama30b", "statement": "Advertising is a means of communication with the users of a product or service.", "final_label": "Factual"}
+{"id": "30", "model": "llama30b", "statement": "Caroline Kennedy is the only living child of John F .", "final_label": "Factual"}
+{"id": "31", "model": "llama30b", "statement": "The Mod are a British pop/rock band from Carshalton, London.", "final_label": "Not Sure"}
+{"id": "32", "model": "llama30b", "statement": "Smriti Mandhana joined Indian women's cricket team in the 2013 Women's Cricket World Cup in India .", "final_label": "Unfactual"}
+{"id": "33", "model": "llama30b", "statement": "Emma Watson best known for playing Hermione Granger in the Harry Potter film series .", "final_label": "Factual"}
+{"id": "34", "model": "llama30b", "statement": "Congressional Space committees exist in both the United States Senate and House of Representatives .", "final_label": "Factual"}
+{"id": "36", "model": "llama30b", "statement": "Colombiana is a 2011 action thriller film produced by Luc Besson and directed by Olivier Megaton .", "final_label": "Factual"}
+{"id": "37", "model": "llama30b", "statement": "Rick Yune co-starred in The Fast and the Furious .", "final_label": "Factual"}
+{"id": "38", "model": "llama30b", "statement": "Boyhood is a 2014 American drama film written and directed by Richard Linklater ,", "final_label": "Factual"}
+{"id": "39", "model": "llama30b", "statement": "Roar ( song )", "final_label": "Factual"}
+{"id": "40", "model": "llama30b", "statement": "The human eyesight is relatively poor .", "final_label": "Unfactual"}
+{"id": "41", "model": "llama30b", "statement": "Alice Cooper was born in Detroit .", "final_label": "Factual"}
+{"id": "44", "model": "llama30b", "statement": "Speech recognition is an interdisciplinary subfield of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text by computers .", "final_label": "Factual"}
+{"id": "46", "model": "llama30b", "statement": "The filming received generally negative reviews from critics .", "final_label": "Factual"}
+{"id": "47", "model": "llama30b", "statement": "Sean Penn is an American actor, filmmaker, and political activist .", "final_label": "Factual"}
+{"id": "48", "model": "llama30b", "statement": "Water is the most abundant compound on Earth's surface .", "final_label": "Factual"}
+{"id": "49", "model": "llama30b", "statement": "Darwin is the name of several places named after Charles Darwin .", "final_label": "Factual"}
+{"id": "51", "model": "llama30b", "statement": "DreamWorks Animation is an American animation studio that is a division of Universal Pictures .", "final_label": "Factual"}
+{"id": "52", "model": "llama30b", "statement": "Folklore includes narratives , beliefs , customs from folktales , jokes , proverbs , anecdotes , popular beliefs , fairy tales or traditions .", "final_label": "Factual"}
+{"id": "55", "model": "llama30b", "statement": "Trollhunters is the first installment of the Tales of Arcadia trilogy , followed by 3Below and Wizards .", "final_label": "Factual"}
+{"id": "56", "model": "llama30b", "statement": "Finding Dory will be released on June 17 , 2016 .", "final_label": "Factual"}
+{"id": "57", "model": "llama30b", "statement": "Kentucky is known for the breeding and selling of thoroughbred horses .", "final_label": "Factual"}
+{"id": "58", "model": "llama30b", "statement": "Kelly Preston worked in television and film from the mid-1980s .", "final_label": "Factual"}
+{"id": "59", "model": "llama30b", "statement": "Excuse My Dust .", "final_label": "Not Sure"}
+{"id": "60", "model": "llama30b", "statement": "A Floppy Disk Drive is a disk drive for computers .", "final_label": "Factual"}
+{"id": "61", "model": "llama30b", "statement": "The horse was exported to Europe around 2000 BCE.", "final_label": "Factual"}
+{"id": "62", "model": "llama30b", "statement": "Forceps are medical instruments used to grasp and/or manipulate tissue or an organ .", "final_label": "Factual"}
+{"id": "63", "model": "llama30b", "statement": "The Closer set in Los Angeles , California .", "final_label": "Factual"}
+{"id": "65", "model": "llama30b", "statement": "The Concert for George was a benefit concert for George Harrison's wife, Olivia Harrison .", "final_label": "Unfactual"}
+{"id": "66", "model": "llama30b", "statement": "Avenged Sevenfold on July 7, 2011 at Tuska Open Air Metal Festival in Finland .", "final_label": "Not Sure"}
+{"id": "0", "model": "llama65b", "statement": "Fox 2000 Pictures is a former subsidiary of 20th Century Fox .", "final_label": "Unfactual"}
+{"id": "1", "model": "llama65b", "statement": "The Cretaceous ended with a mass extinction .", "final_label": "Factual"}
+{"id": "2", "model": "llama65b", "statement": "Nicholas Brody is a fictional character on the Showtime television series Homeland .", "final_label": "Factual"}
+{"id": "3", "model": "llama65b", "statement": "CBS is the second oldest network broadcasting company after the NBC .", "final_label": "Factual"}
+{"id": "7", "model": "llama65b", "statement": "Aristotle spent his last years in Athens .", "final_label": "Factual"}
+{"id": "9", "model": "llama65b", "statement": "Marcus Bentley appeared as a witness on Big Brother's Big Mouth .", "final_label": "Factual"}
+{"id": "10", "model": "llama65b", "statement": "Jennifer Lopez got her start in music as a backup dancer for New Kids on the Block .", "final_label": "Factual"}
+{"id": "11", "model": "llama65b", "statement": "Sancho Panza has two modes of flying , one on a cloud , which can be just as slow as a real horse .", "final_label": "Unfactual"}
+{"id": "12", "model": "llama65b", "statement": "Brazzers is a sponsor of UFC fighters Anthony Johnson and Eddie Wineland .", "final_label": "Not Sure"}
+{"id": "13", "model": "llama65b", "statement": "Tim Roth is known for his roles in Quentin Tarantino's films.", "final_label": "Factual"}
+{"id": "14", "model": "llama65b", "statement": "Ernest Medina was awarded a Bronze Star for heroic service in the battle .", "final_label": "Factual"}
+{"id": "15", "model": "llama65b", "statement": "Jenna Jameson gained fame for her work with Wicked Pictures .", "final_label": "Factual"}
+{"id": "17", "model": "llama65b", "statement": "Christa McAuliffe was the first teacher to fly on the Space Shuttle .", "final_label": "Factual"}
+{"id": "19", "model": "llama65b", "statement": "Bermuda Triangle occurs in the summer of 2006 when several unidentified aircraft entered the airspace of the Republic of Macedonia and disappeared in a similar manner to aircraft lost in the Bermuda Triangle .", "final_label": "Not Sure"}
+{"id": "20", "model": "llama65b", "statement": "Topman has 250 stores in the UK , including one in almost every town that has a Topshop , and over 150 stores outside the UK .", "final_label": "Unfactual"}
+{"id": "23", "model": "llama65b", "statement": "In 1971 , Denmark and Norway joined the European Economic Community .", "final_label": "Unfactual"}
+{"id": "24", "model": "llama65b", "statement": "Trollhunters was based on the book of the same name by Guillermo del Toro and Daniel Kraus .", "final_label": "Factual"}
+{"id": "25", "model": "llama65b", "statement": "The Armenian Genocide is the genocide by the Ottoman Empire of the Armenian people from 1915 to 1923 .", "final_label": "Unfactual"}
+{"id": "28", "model": "llama65b", "statement": "Advertising is subject to mass regulation .", "final_label": "Factual"}
+{"id": "30", "model": "llama65b", "statement": "Caroline Kennedy is the president of the John F. Kennedy Library Foundation .", "final_label": "Factual"}
+{"id": "31", "model": "llama65b", "statement": "The Mod style was characterised by continental and Italian influences .", "final_label": "Unfactual"}
+{"id": "32", "model": "llama65b", "statement": "Smriti Mandhana hails from Sangli in the state of Maharashtra .", "final_label": "Factual"}
+{"id": "33", "model": "llama65b", "statement": "Emma Watson as Hermione Granger in the Harry Potter film series .", "final_label": "Factual"}
+{"id": "34", "model": "llama65b", "statement": "Congressional Space Technology and Innovation Caucus .", "final_label": "Not Sure"}
+{"id": "36", "model": "llama65b", "statement": "Colombiana is a 2011 French action film by Olivier Megaton .", "final_label": "Factual"}
+{"id": "37", "model": "llama65b", "statement": "Rick Yune studied at the Wharton School of Business at the University of Pennsylvania .", "final_label": "Factual"}
+{"id": "38", "model": "llama65b", "statement": "Boyhood is a 2014 American film written and directed by Richard Linklater .", "final_label": "Factual"}
+{"id": "39", "model": "llama65b", "statement": "Roar ( song)", "final_label": "Factual"}
+{"id": "40", "model": "llama65b", "statement": "The human condition is the nature of human beings as a species , especially the faculties and functions of their bodies and minds .", "final_label": "Not Sure"}
+{"id": "41", "model": "llama65b", "statement": "Alice Cooper was born in Detroit .", "final_label": "Factual"}
+{"id": "44", "model": "llama65b", "statement": "Speech recognition is used to enable mobile computing .", "final_label": "Factual"}
+{"id": "46", "model": "llama65b", "statement": "The filming of Game of Thrones was filmed in various locations including Morocco , Malta , Croatia and Spain .", "final_label": "Factual"}
+{"id": "47", "model": "llama65b", "statement": "Sean Penn won two Academy Awards for Best Actor .", "final_label": "Factual"}
+{"id": "48", "model": "llama65b", "statement": "Water is odorless , colorless , tasteless , transparent chemical compound that is liquid at ordinary temperatures .", "final_label": "Factual"}
+{"id": "49", "model": "llama65b", "statement": "Darwin is the 22nd anniversary of HMAS Darwin .", "final_label": "Unfactual"}
+{"id": "51", "model": "llama65b", "statement": "DreamWorks Animation is an American animation studio .", "final_label": "Factual"}
+{"id": "52", "model": "llama65b", "statement": "Folklore includes ghost stories , fairy tales , folk songs , folk dances and poems .", "final_label": "Factual"}
+{"id": "55", "model": "llama65b", "statement": "Trollhunters is based on a book by Guillermo del Toro and Daniel Kraus .", "final_label": "Factual"}
+{"id": "56", "model": "llama65b", "statement": "Finding Dory will be released on June 17 , 2016 .", "final_label": "Factual"}
+{"id": "57", "model": "llama65b", "statement": "Kentucky is a mid-latitude state.", "final_label": "Unfactual"}
+{"id": "58", "model": "llama65b", "statement": "Kelly Preston plays Eulabelle 'Mae' Lawson , the mother of a girl named Tara, who is possessed by a demon .", "final_label": "Not Sure"}
+{"id": "59", "model": "llama65b", "statement": "Excuse My French , written by Lily Hargraves , also appeared in the first season .", "final_label": "Not Sure"}
+{"id": "60", "model": "llama65b", "statement": "A Floppy disk contains a single data storage area that is not physically marked on the media .", "final_label": "Factual"}
+{"id": "61", "model": "llama65b", "statement": "The horse was introduced to the Americas by the Spanish .", "final_label": "Factual"}
+{"id": "62", "model": "llama65b", "statement": "Forceps are a family of medical instruments used for grasping and holding objects .", "final_label": "Factual"}
+{"id": "63", "model": "llama65b", "statement": "The Closer is an American television police procedural that began airing on July 13, 2005 .", "final_label": "Unfactual"}
+{"id": "66", "model": "llama65b", "statement": "Avenged Sevenfold announced they were going to release a new album in 2010 .", "final_label": "Factual"}
+{"id": "0", "model": "gpt3", "statement": "Fox 2000 Pictures was a feature film production arm of the Fox Entertainment Group .", "final_label": "Factual"}
+{"id": "1", "model": "gpt3", "statement": "The Cretaceous period lasted from approximately 145 to 66 million years ago .", "final_label": "Factual"}
+{"id": "2", "model": "gpt3", "statement": "Nicholas Brody was a main character in the television series Homeland .", "final_label": "Factual"}
+{"id": "3", "model": "gpt3", "statement": "CBS is an American commercial broadcast television and radio network owned by ViacomCBS .", "final_label": "Factual"}
+{"id": "4", "model": "gpt3", "statement": "Edgar Wright directed the Three Flavours Cornetto trilogy of films .", "final_label": "Factual"}
+{"id": "7", "model": "gpt3", "statement": "Aristotle spent most of his life in Athens, Greece studying philosophy, politics, science and literature.", "final_label": "Factual"}
+{"id": "9", "model": "gpt3", "statement": "Marcus Bentley is the narrator for the television series Big Brother .", "final_label": "Factual"}
+{"id": "10", "model": "gpt3", "statement": "Jennifer Lopez released her debut studio album, On the 6, in 1999 .", "final_label": "Factual"}
+{"id": "11", "model": "gpt3", "statement": "Sancho Panza was Don Quixote's loyal friend and squire .", "final_label": "Factual"}
+{"id": "12", "model": "gpt3", "statement": "Brazzers is an adult entertainment company based in Montreal, Canada .", "final_label": "Unfactual"}
+{"id": "13", "model": "gpt3", "statement": "Tim Roth has acted in several acclaimed films such as Reservoir Dogs, Pulp Fiction and Rob Roy .", "final_label": "Factual"}
+{"id": "14", "model": "gpt3", "statement": "Ernest Medina was found not guilty of all charges related to the My Lai Massacre .", "final_label": "Factual"}
+{"id": "15", "model": "gpt3", "statement": "Jenna Jameson is an American adult film actress and entrepreneur .", "final_label": "Factual"}
+{"id": "17", "model": "gpt3", "statement": "Christa McAuliffe was a teacher chosen to be part of the Teacher in Space program .", "final_label": "Factual"}
+{"id": "19", "model": "gpt3", "statement": "Bermuda Triangle has been the source of numerous tales of vanished ships and aircraft .", "final_label": "Factual"}
+{"id": "20", "model": "gpt3", "statement": "Topman has become a leading name in the menswear fashion industry .", "final_label": "Factual"}
+{"id": "23", "model": "gpt3", "statement": "In 1971 the 26th Amendment to the United States Constitution was ratified, granting 18-year-olds the right to vote .", "final_label": "Factual"}
+{"id": "24", "model": "gpt3", "statement": "Trollhunters was an animated fantasy series created by Guillermo del Toro .", "final_label": "Factual"}
+{"id": "25", "model": "gpt3", "statement": "The Armenian Genocide of 1915 was the first genocide of the 20th century .", "final_label": "Factual"}
+{"id": "28", "model": "gpt3", "statement": "Advertising is used to influence consumer behavior in a variety of ways .", "final_label": "Factual"}
+{"id": "30", "model": "gpt3", "statement": "Caroline Kennedy was appointed U.S. Ambassador to Japan in 2013 .", "final_label": "Factual"}
+{"id": "31", "model": "gpt3", "statement": "The Mod Revival was a style of architecture, art and design that emerged in the late 19th and early 20th centuries .", "final_label": "Not Sure"}
+{"id": "32", "model": "gpt3", "statement": "Smriti Mandhana is an Indian international cricketer who plays for the Indian Women's national team .", "final_label": "Factual"}
+{"id": "33", "model": "gpt3", "statement": "Emma Watson is known for her roles in the Harry Potter film series and Beauty and the Beast .", "final_label": "Factual"}
+{"id": "34", "model": "gpt3", "statement": "Congressional Space Medal of Honor is awarded to American astronauts who demonstrate great bravery and courage in space exploration .", "final_label": "Factual"}
+{"id": "36", "model": "gpt3", "statement": "Colombiana is an action-packed film starring Zoe Saldana .", "final_label": "Factual"}
+{"id": "37", "model": "gpt3", "statement": "Rick Yune starred in the 2009 movie Ninja Assassin .", "final_label": "Factual"}
+{"id": "38", "model": "gpt3", "statement": "Boyhood is a 2014 American coming-of-age drama film directed by Richard Linklater.", "final_label": "Factual"}
+{"id": "39", "model": "gpt3", "statement": "Roar ( 1981 ) is a comedy-drama film starring Tippy Hedren and Noel Marshall .", "final_label": "Unfactual"}
+{"id": "40", "model": "gpt3", "statement": "The human eye can process 36,000 pieces of information every hour .", "final_label": "Not Sure"}
+{"id": "41", "model": "gpt3", "statement": "Alice Cooper was inducted into the Rock and Roll Hall of Fame in 2011 .", "final_label": "Factual"}
+{"id": "44", "model": "gpt3", "statement": "Speech recognition technology can be used to transcribe voice-based commands and search queries .", "final_label": "Factual"}
+{"id": "46", "model": "gpt3", "statement": "The filming of the movie Avatar took place in New Zealand and Hawaii .", "final_label": "Factual"}
+{"id": "47", "model": "gpt3", "statement": "Sean Penn received an Academy Award for Best Actor for his performance in Mystic River .", "final_label": "Factual"}
+{"id": "48", "model": "gpt3", "statement": "Water is essential for all forms of life and is vital for a healthy environment .", "final_label": "Factual"}
+{"id": "49", "model": "gpt3", "statement": "Darwin is best known for his contributions to evolutionary theory .", "final_label": "Factual"}
+{"id": "51", "model": "gpt3", "statement": "DreamWorks Animation has produced numerous award-winning feature films including Shrek, Madagascar, and How to Train Your Dragon .", "final_label": "Factual"}
+{"id": "52", "model": "gpt3", "statement": "Folklore includes legends, music, oral history, proverbs, jokes, popular beliefs, fairy tales, stories, tall tales, and customs that are passed down from generation to generation .", "final_label": "Factual"}
+{"id": "55", "model": "gpt3", "statement": "Trollhunters is an animated fantasy series created by Guillermo del Toro.", "final_label": "Factual"}
+{"id": "56", "model": "gpt3", "statement": "Finding Dory was released in 2016 and was a critical and commercial success .", "final_label": "Factual"}
+{"id": "57", "model": "gpt3", "statement": "Kentucky is known for its horse racing and bourbon distilleries .", "final_label": "Factual"}
+{"id": "58", "model": "gpt3", "statement": "Kelly Preston starred in movies such as Twins and Jerry Maguire .", "final_label": "Factual"}
+{"id": "59", "model": "gpt3", "statement": "Excuse My French is a 2019 American comedy film directed by Steve Pink .", "final_label": "Unfactual"}
+{"id": "60", "model": "gpt3", "statement": "A Floppy disk is a data storage device composed of a disk of thin and flexible magnetic storage medium, sealed in a rectangular plastic enclosure lined with fabric that removes dust particles .", "final_label": "Factual"}
+{"id": "61", "model": "gpt3", "statement": "The horse is one of the most widely used working animals in the world .", "final_label": "Factual"}
+{"id": "62", "model": "gpt3", "statement": "Forceps are used to help deliver a baby during childbirth .", "final_label": "Factual"}
+{"id": "63", "model": "gpt3", "statement": "The Closer premiered on June 13, 2005 on TNT .", "final_label": "Factual"}
+{"id": "65", "model": "gpt3", "statement": "The Concert for Bangladesh was a charity event held at Madison Square Garden on August 1, 1971 .", "final_label": "Factual"}
+{"id": "66", "model": "gpt3", "statement": "Avenged Sevenfold is an American heavy metal band from Huntington Beach, California .", "final_label": "Factual"}
