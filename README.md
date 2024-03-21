@@ -1,6 +1,10 @@
 # LLMforFV
 
-This repo provides the data and codes (coming soon) for our work [Language Models Hallucinate, but May Excel at Fact Verification](https://arxiv.org/abs/2310.14564). 
+This repo provides the data and codes for our NAACL 2024 work [Language Models Hallucinate, but May Excel at Fact Verification](https://arxiv.org/abs/2310.14564). 
+
+
+
+### Data
 
 You can find the manually annotated data under the `./data` directory.
 
@@ -16,7 +20,14 @@ You can find the manually annotated data under the `./data` directory.
 
 - `statement_id`: the position id (from 1 to 5) of `statement` for the ParaGen (Para) data. 
 
-I am very interested in the exploration of evaluating and alleviating the hallucination problem of LLMs. Welcome to contact me if you want collaboration or communication!
+
+
+### Code
+
+Here we provide an example for using FLAN-T5 to evaluate the factuality of given statements.
+
+1. Using `eval_flant5.py` to generate verbal judgments for given statements.
+2. Using `meta_eval.py` to evaluate the judgments of FLAN-T5
 
 
 
